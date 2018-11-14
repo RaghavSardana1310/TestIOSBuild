@@ -1,0 +1,16 @@
+C:\Users\jsardar\Desktop\S\S\S\bin\Debug\netstandard2.0\S.deps.json
+C:\Users\jsardar\Desktop\S\S\S\bin\Debug\netstandard2.0\S.dll
+C:\Users\jsardar\Desktop\S\S\S\bin\Debug\netstandard2.0\S.pdb
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\S.csprojAssemblyReference.cache
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\S.csproj.CoreCompileInputs.cache
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\S.AssemblyInfoInputs.cache
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\S.AssemblyInfo.cs
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\S.dll
+C:\Users\jsardar\Desktop\S\S\S\obj\Debug\netstandard2.0\S.pdb
